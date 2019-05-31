@@ -1,3 +1,5 @@
+#Attempt to convert it to Kotlin
+
 # Shamir's Secret Sharing
 
 [![CircleCI](https://circleci.com/gh/codahale/shamir.svg?style=svg)](https://circleci.com/gh/codahale/shamir)
